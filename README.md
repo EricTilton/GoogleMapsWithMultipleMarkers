@@ -1,4 +1,4 @@
 # GoogleMapsWithMultipleMarkers
 A map utilizing react-google-maps and react-native-geocoding to place multiple markers on the map for local law school clinics within the state of California.
 
-<a href="https://ibb.co/cm5XaT"><img src="https://preview.ibb.co/c1WS9o/Map.gif" alt="Map" border="0"></a>
+<iframe src="https://giphy.com/embed/5tkAQ6GpZdob4KzAcp" width="480" height="170" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/5tkAQ6GpZdob4KzAcp">via GIPHY</a></p>
