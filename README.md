@@ -17,3 +17,5 @@ The geoCoder function then proceeds to utilize the Full address variable to crea
 The markers use this.state.results
 
 <a href="https://ibb.co/nByAvT"><img src="https://preview.ibb.co/mdOcaT/Marker.png" alt="Marker" border="0"></a>
+
+it then uses the location once .mapped to find the lat lng it needs as well as the information that is seen within its InfoWindow. 
