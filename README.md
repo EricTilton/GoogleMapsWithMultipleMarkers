@@ -21,3 +21,7 @@ The markers use this.state.results
 it then uses the location once .mapped to find the lat lng it needs as well as the information that is seen within its InfoWindow.
 
 <a href="https://ibb.co/eTsZpo"><img src="https://preview.ibb.co/g0T79o/Map_With_AMarker.png" alt="Map_With_AMarker" border="0"></a>
+
+We use props.selected marker (As shown above) to make sure only one info window appears at a time. 
+
+<a href="https://imgbb.com/"><img src="https://image.ibb.co/dewzN8/handle_Click.png" alt="handle_Click" border="0"></a>
