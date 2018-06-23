@@ -19,5 +19,4 @@ The markers use this.state.results
 <a href="https://ibb.co/nByAvT"><img src="https://preview.ibb.co/mdOcaT/Marker.png" alt="Marker" border="0"></a>
 
 it then uses the location once .mapped to find the lat lng it needs as well as the information that is seen within its InfoWindow. 
-
 <a href="https://ibb.co/cg6VvT"><img src="https://preview.ibb.co/jP4HaT/Map_With_AMarker.png" alt="Map_With_AMarker" border="0"></a>
