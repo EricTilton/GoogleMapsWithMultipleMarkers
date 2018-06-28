@@ -3,7 +3,7 @@ A map utilizing react-google-maps and react-native-geocoding to place multiple m
 
 
 
-![Alt Text](https://gfycat.com/ImpoliteFriendlyAtlanticbluetang)
+![Alt Text](https://media.giphy.com/media/1fmztrYafXaCsB7N0f/giphy.gif)
 
 
 The function geo locate takes the data given from the API call and breaks it down into seperate arrays which is then passed to react-native-geocodings version of the Geocoder
